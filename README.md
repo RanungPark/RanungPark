@@ -13,5 +13,6 @@
 <a href="https://velog.io/@_wo_ong/posts/" target="_blank"><img src="https://img.shields.io/badge/_Wo_.ong-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a> <img src="https://img.shields.io/badge/_Wo_.ong-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 ### 🌃Statistics🌃
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanungPark&layout=compact)](https://github.com/RanungPark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanungPark&show_icons=true&theme=tokyonight)
 </div>
