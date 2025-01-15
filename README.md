@@ -11,7 +11,7 @@
 <a href="https://github.com/RanungPark" target="_blank"><img src="https://img.shields.io/badge/RanungPark-181717?style=for-the-badge&logo=github&logoColor=white">
 </a> <img src="https://img.shields.io/badge/ckehfqkr302@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
 <a href="https://velog.io/@_wo_ong/posts/" target="_blank"><img src="https://img.shields.io/badge/_Wo_.ong-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a> <img src="https://img.shields.io/badge/_Wo_.ong-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 ### 🌃Statistics🌃
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanungPark&show_icons=true&theme=tokyonight)
 </div>
